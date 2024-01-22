@@ -1,5 +1,5 @@
-# About Me
-### 💾 Software developer growing in Js (React) and Python (Django)
+# Hi there!
+### 💾 I am Software developer growing in Js (React) and Python (Django)
 
 ### 💾 Computer Science Student
 
