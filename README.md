@@ -1,13 +1,13 @@
 # ✋ About Me
-💾 Software developer growing in Js (React) and Python (Django)
+### 💾 Software developer growing in Js (React) and Python (Django)
 
-💾 Computer Science Student
+### 💾 Computer Science Student
 
-Areas of Expertise: 
+## Areas of Expertise: 
 
-🌐 Web and Mobile App Development
+### 🌐 Web and Mobile App Development
 
-🧠 Artificial Intelligence
+### 🧠 Artificial Intelligence
 
 # 💡 Current Project
 
