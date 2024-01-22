@@ -1,4 +1,4 @@
-# ✋ About Me
+# About Me
 ### 💾 Software developer growing in Js (React) and Python (Django)
 
 ### 💾 Computer Science Student
@@ -9,7 +9,7 @@
 
 ### 🧠 Artificial Intelligence
 
-# 💡 Current Project
+# Current Project
 
 
-# ✅ Finished Projects 
+# Finished Projects 
