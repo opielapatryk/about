@@ -10,6 +10,8 @@
 ### 🧠 Artificial Intelligence
 
 # Current Project
+## 📝 [Stickify](https://github.com/opielapatryk/StickifyFireBase)
+*React Native*|*Firebase*|*Jest*
 
 
 # Finished Projects 
