@@ -1,2 +1,8 @@
-# about
-About me
+# ✋ About Me
+______________
+
+# 💡 Current Project
+______________
+
+# ✅ Finished Projects 
+______________
