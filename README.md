@@ -21,6 +21,4 @@ Stickify is a user-friendly application designed to streamline the process of le
 ### 📝 [Stickify for Browser](https://github.com/opielapatryk/StickifyBackendDjango)
 *Django* | *Django Rest Framework* | *PostgreSQL*
 
-Stickify for browser
-
 ![Stickify Register Screen](./register.png)
