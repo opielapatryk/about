@@ -5,9 +5,9 @@
 
 ### Areas of Expertise: 
 
-🌐 Web and Mobile App Development
+*🌐 Mobile App Development / Backend / Frontend*
 
-🧠 Artificial Intelligence
+*🧠 Artificial Intelligence*
 
 ## Current Project
 ### 📝 [Stickify](https://github.com/opielapatryk/StickifyFireBase)
