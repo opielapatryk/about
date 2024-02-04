@@ -1,5 +1,5 @@
 ## Hi there!
-💾 I am Software developer growing in Js (React) and Python (Django)
+💾 I am Software developer growing in React Native and Python Django
 
 💾 Computer Science Student
 
