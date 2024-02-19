@@ -1,5 +1,5 @@
 ## Hi there!
-💾 I am Software developer growing in React Native and Python Django
+💾 I am Software developer intrested in mobile app development and backend. 
 
 💾 Computer Science Student
 
@@ -7,13 +7,12 @@
 
 *🌐 Mobile App Development* <br> 
 *🌐 Backend*<br> 
-*🌐 Frontend*<br> 
 
 ## Current Project
 ### 📝 [PeaNote](https://github.com/opielapatryk/StickifyFireBase)
 *React Native* | *Firebase* | *Jest*
 
-PeaNote is a user-friendly application designed to streamline the process of leaving and sharing notes with friends, providing a centralized space for collecting important information. Whether it's a quick reminder, a to-do list, or a shared idea, PeaNote ensures that all your notes are conveniently stored in one accessible place.
+PeaNote is a user-friendly application designed to streamline the process of leaving and sharing notes/tasks with friends, providing a centralized space for collecting important information. Whether it's a quick reminder or a shared idea, PeaNote ensures that all your notes are conveniently stored in one accessible place.
 
 ![Stickify Screen](./1.png)
 
