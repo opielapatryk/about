@@ -1,5 +1,5 @@
 ## Hi there!
-### I am computer science student, intrested in: 
+### I am open minded computer science student, intrested in: 
 *🌐 Mobile App Development* <br> 
 *🌐 Backend*<br> 
 
