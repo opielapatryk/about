@@ -1,6 +1,5 @@
 ## Hi there!
 💾 I am Software developer intrested in mobile app development and backend. 
-
 💾 Computer Science Student
 
 ### Areas of Expertise: 
