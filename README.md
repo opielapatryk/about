@@ -1,7 +1,5 @@
 ## Hi there!
-💾 I am Computer Science student, intrested in mobile app development and backend. 
-
-### Areas of Expertise: 
+### I am Computer Science student, intrested in: 
 *🌐 Mobile App Development* <br> 
 *🌐 Backend*<br> 
 
