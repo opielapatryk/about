@@ -1,5 +1,5 @@
 ## Hi there!
-💾 I am Computer Science intrested in mobile app development and backend. 
+💾 I am Computer Science student, intrested in mobile app development and backend. 
 
 ### Areas of Expertise: 
 *🌐 Mobile App Development* <br> 
