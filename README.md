@@ -1,7 +1,7 @@
 ## Hi there!
 ### I am open minded computer science student, intrested in: 
-*🌐 Mobile App Development* <br> 
 *🌐 Backend*<br> 
+*🌐 Mobile App Development* <br> 
 
 ## Current Project
 ### 📝 [PeaNote](https://github.com/opielapatryk/StickifyFireBase)
