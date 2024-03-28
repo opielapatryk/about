@@ -3,7 +3,7 @@
 *🌐 Backend*<br> 
 *🌐 Mobile App Development* <br> 
 
-## Current Project
+## Projects
 ### 📝 [PeaNote](https://github.com/opielapatryk/StickifyFireBase)
 *React Native* | *Firebase* | *Jest*
 
@@ -12,7 +12,6 @@ PeaNote is a user-friendly application designed to streamline the process of lea
 ![Register Screen](./1.png)
 ![Board Screen](./2.png)
 
-## Previous Projects
 ### 📝 [PeaNote for Browser](https://github.com/opielapatryk/StickifyBackendDjango)
 *Django* | *Django Rest Framework* | *PostgreSQL*
 
