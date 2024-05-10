@@ -7,7 +7,7 @@
 ### 📝 [Restaurant Management System](https://github.com/opielapatryk/restaurant-management-system)
 *Python* | *FastAPI* | *Kong* | *Consul* | *Kafka* | *Redis* | *MongoDB* | *PostgreSQL*
 
-Restaurant Management System with microservices on Kubernetes
+Restaurant Management System, microservices on Kubernetes
 
 ![Register Screen](https://github.com/opielapatryk/restaurant-management-system/blob/main/context.png)
 ![Board Screen](https://github.com/opielapatryk/restaurant-management-system/blob/main/container.png)
