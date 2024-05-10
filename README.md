@@ -1,9 +1,17 @@
 ## Hi there!
 ### I am open minded computer science student, intrested in: 
-*🌐 Backend*<br> 
+*🌐 Backend Software Engineering*<br> 
 *🌐 Software Architecture* <br> 
 
 ## Projects
+### 📝 [Restaurant Management System](https://github.com/opielapatryk/restaurant-management-system)
+*Python* | *FastAPI* | *Kong* | *Consul* | *Kafka* | *Redis* | *MongoDB* | *PostgreSQL*
+
+Restaurant Management System with microservices
+
+![Register Screen](https://github.com/opielapatryk/restaurant-management-system/context.png)
+![Board Screen](https://github.com/opielapatryk/restaurant-management-system/container.png)
+
 ### 📝 [PeaNote](https://github.com/opielapatryk/StickifyFireBase)
 *React Native* | *Firebase* | *Jest*
 
