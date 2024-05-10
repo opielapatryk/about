@@ -9,8 +9,8 @@
 
 Restaurant Management System with microservices
 
-![Register Screen](https://github.com/opielapatryk/restaurant-management-system/context.png)
-![Board Screen](https://github.com/opielapatryk/restaurant-management-system/container.png)
+![Register Screen](https://github.com/opielapatryk/restaurant-management-system/blob/main/context.png)
+![Board Screen](https://github.com/opielapatryk/restaurant-management-system/blob/main/container.png)
 
 ### 📝 [PeaNote](https://github.com/opielapatryk/StickifyFireBase)
 *React Native* | *Firebase* | *Jest*
