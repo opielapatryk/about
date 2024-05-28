@@ -5,7 +5,7 @@
 
 ## Projects
 ### 📝 [Restaurant Management System](https://github.com/opielapatryk/restaurant-management-system)
-*Python* | *FastAPI* | *Kong* | *Consul* | *Kafka* | *Redis* | *MongoDB* | *PostgreSQL*
+*Python* | *FastAPI* | *gRPC* | *Consul* | *RabbitMQ* | *Redis* | *MongoDB* | *PostgreSQL*
 
 Restaurant Management System, microservices on Kubernetes
 
