@@ -4,6 +4,16 @@
 *🌐 Software Architecture* <br> 
 
 ## Projects
+### 📝 [Hydroponic System](https://github.com/opielapatryk/hydroponic-systems)
+*Python* | *Django* | *DRF* | *PostgreSQL* | *gRPC* | *RabbitMQ* | *Docker* | *K8s*
+
+Application facilitate hydroponic system management implemented using microservices made of:
+- AuthService
+- ManagerService
+- MeasurementService
+
+![Container Diagram](./container.png)
+
 ### 📝 [Restaurant Management System](https://github.com/opielapatryk/restaurant-management-system)
 *Python* | *FastAPI* | *gRPC* | *Consul* | *RabbitMQ* | *Redis* | *MongoDB* | *PostgreSQL*
 
